@@ -1,5 +1,9 @@
 ### erstes Online Meeting
 
+#### Einbindung Bookmarklet in den Entwicklungs Browser
++ https://www.jetbrains.com/phpstorm/marklets/
+![](https://i.imgur.com/6S4P90H.png)
+
 #### Erweiterung des Skriptes für das Debugging
 
 
