@@ -23,9 +23,10 @@ class test
 			for($i = 0; $i < 10; $i++)
 			{
 				$myTest = $this->wertA + $i;
+				echo $myTest.'<br>';
 			}
 			
-			retutn $this;
+			return $this;
 		}
 		catch(\Exception $e)
 		{
