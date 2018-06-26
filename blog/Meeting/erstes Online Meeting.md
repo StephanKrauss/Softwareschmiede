@@ -5,7 +5,8 @@
 ![](https://i.imgur.com/6S4P90H.png)
 
 #### Erweiterung des Skriptes für das Debugging
-
++ erwitern des Skriptes
++ setzen der Breakpoints
 
 
 #### erstes Test Skript
@@ -19,6 +20,7 @@
 #### Installation der xdebug.dll
 + Kontrolle der Installation mit *'phpinfo()'*
 + Auswahl der richtigen xdebug.dll
++ [Download](https://xdebug.org/download.php)
 
 
 #### Anpassen der *'php.ini'* 
@@ -51,10 +53,11 @@
 ##### folgende Plugin sind im Editor installiert
 
 im Menü befinden sich die Plugin:
- +  DBGP Plugin
- 	+ von Damjan Zobo Cvetko 	
- 	+ [Debug Plugin](https://sourceforge.net/projects/npp-plugins/files/DBGP%20Plugin/)  
- 	+ dbgp.dll in das *'plugins'* Verzeichnis des Editore
- +  mit Plugin Manager *'PHP Autocompletion'* installieren
- 	+ [Php Plugin Autocompletion](https://github.com/StanDog/npp-phpautocompletion) 
- +  Plugin *'Markdown Viewer'* mit Plugin Manager installieren
+  
++ DBGP Plugin  
+  + von Damjan Zobo Cvetko 	
+  + [Debug Plugin](https://sourceforge.net/projects/npp-plugins/files/DBGP%20Plugin/)  
+  + dbgp.dll in das *'plugins'* Verzeichnis des Editore  
++ mit Plugin Manager *'PHP Autocompletion'* installieren  
+  + [Php Plugin Autocompletion](https://github.com/StanDog/npp-phpautocompletion) 
++ Plugin *'Markdown Viewer'* mit Plugin Manager installieren  
