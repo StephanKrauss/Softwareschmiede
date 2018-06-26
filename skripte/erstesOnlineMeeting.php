@@ -13,12 +13,17 @@ class test
 	{
 		$this->wertA = $a;
 		
+		
 		return $this;
 	}
 	
 	public function run()
 	{
 		try{
+			for($i = 0; $i < 10; $i++)
+			{
+				$myTest = $this->wertA + $i;
+			}
 			
 			retutn $this;
 		}
@@ -28,6 +33,10 @@ class test
 		}
 	}
 }
+
+$myTestObj = new test();
+
+$myTestObj->setWertA(11)->run();
 
 
 

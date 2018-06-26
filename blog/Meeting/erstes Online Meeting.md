@@ -1,5 +1,9 @@
 ### erstes Online Meeting
 
+#### Erweiterung des Skriptes für das Debugging
+
+
+
 #### erstes Test Skript
 ![](https://i.imgur.com/NYRiPnP.png)
 
