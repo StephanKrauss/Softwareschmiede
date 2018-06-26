@@ -1,5 +1,10 @@
 ### erstes Online Meeting
 
+#### Installation der xdebug.dll
++ Kontrolle der Installation mit *'phpinfo()'*
++ Auswahl der richtigen xdebug.dll
+
+
 #### Anpassen der *'php.ini'* 
 
 	[XDebug]
