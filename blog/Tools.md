@@ -1,5 +1,7 @@
 ### Werkzeuge der Leipziger Softwareschmiede
 
+![](https://i.imgur.com/rfreqlQ.jpg)
+
 + unser Kalender
 	+ [zum Kalender](https://ox.hosteurope.de/appsuite/ui#!!&app=io.ox/calendar&folder=79&perspective=month)
 + Github Account

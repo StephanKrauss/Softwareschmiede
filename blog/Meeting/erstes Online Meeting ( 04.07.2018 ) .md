@@ -1,4 +1,4 @@
-### erstes Online Meeting
+### erstes Online Meeting  >> Handzettel <<
 
 #### praktisches debuggen des Skriptes
 ![](https://i.imgur.com/80hhgKA.png)
@@ -6,13 +6,12 @@
 #### Einbindung Bookmarklet in den Entwicklungs Browser
 + https://www.jetbrains.com/phpstorm/marklets/
 ![](https://i.imgur.com/6S4P90H.png)
-
-#### git push origin er	
-+ erwitern des Skriptes
+	
++ erweitern des Skriptes
 + setzen der Breakpoints
 
 
-#### erstes Test Skript
+#### erstes Test des Skriptes
 ![](https://i.imgur.com/NYRiPnP.png)
 
 
@@ -54,8 +53,6 @@
 #### Auflistung der benötigten Plugins für den Editor Notepad++
 
 ##### folgende Plugin sind im Editor installiert
-
-im Menü befinden sich die Plugin:
   
 + DBGP Plugin  
   + von Damjan Zobo Cvetko 	
@@ -64,3 +61,9 @@ im Menü befinden sich die Plugin:
 + mit Plugin Manager *'PHP Autocompletion'* installieren  
   + [Php Plugin Autocompletion](https://github.com/StanDog/npp-phpautocompletion) 
 + Plugin *'Markdown Viewer'* mit Plugin Manager installieren  
++ Plugin *'Explorer'*  
+
+##### empfohlene Plugin für den Editor Notepad++
+
++ Doxygen
++ Explorer

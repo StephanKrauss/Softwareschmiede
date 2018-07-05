@@ -1,9 +1,9 @@
 <?php
 
-class test
+class MyClass
 {
-	protected $wertA = NULL;
-	protected $wertB = null;
+	protected $wertA = 5;
+	protected $wertB = 2;
 	
 	public function __construct(){
 		$this->wertB = 25;
@@ -13,6 +13,7 @@ class test
 	{
 		$this->wertA = $a;
 		
+		$this->
 		
 		return $this;
 	}
@@ -28,18 +29,15 @@ class test
 			
 			return $this;
 		}
-		catch(\Exception $e)
+		catch(\Throwable $e)
 		{
 			echo 'Fehler';
 		}
 	}
 }
 
-$myTestObj = new test();
+$myTestObj = new myClass();
 
 $myTestObj->setWertA(11)->run();
-
-
-
 
 ?>
