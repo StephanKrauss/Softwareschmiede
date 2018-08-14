@@ -1,35 +1,26 @@
-### unser erstes Meeting
+### Leipziger Softwareschmiede, aber Hallo !
 
 ![](https://i.imgur.com/jFPuNmj.png)
 
-Hallo,
 
-ich freue mich, dass unser erstes Meeting am 04.07.2018 um 19:00 Uhr stattfindet.
-Getreu unserem Motto:  
+Hallo Freunde,  
 
- **Jeder kann Online lernen,  
-jeder kann kann Online Wissen vermitteln**  
-  
-haben wir uns folgende Schwerpunkte gesetzt:  
-In unserem ersten Online - Meeting
-wollen wir 2 kostenfreie Werkzeuge testen.
+in Auswertung des letzten Online Meetings m&ouml;chte ich euch
+mit den aktuellen Entwicklungen vertraut machen.
 
-+ Skype: **stephan12366**
-+ oder per Web - Browser: **http://appear.in/softwareschmiede**      
+Ab sofort hat unsere Gruppe eine neue Internetadresse.
+Ihr findet unsere Online Plattform jetzt unter:  
+http://www.leipziger-softwareschmiede.de .  ­
 
-Wir fangen an zu testen mit **Skype**. Sollte die Verbindung nicht  
-den gew&uuml;nschten Erfolg haben,  
-dann starten wir den 2. Versuch mit **http://appear.in/softwareschmiede**.   
-  
-Informationen in Echtzeit gibt es dazu in diesem Wiki unter **> News**.
+Gleichfalls hat sich unsere Gruppen Mailadresse ge&auml;ndert.  
+Wie ihr im Wiki erkennen k&ouml;nnt, sammeln wir Ideen und Vorschl&auml;ge  
+f&uuml;r das n&auml;chste Online Meeting.  
 
-Leider k&ouml;nnen in **appear** nur noch 3 weitere Teilnehmer mitmachen. :-(  
-Sendet eure Zusagen per Mail an **softwareschmiede@suppenterrine.de** .  
+Leider ist unser 'Ideen Tool' noch nicht fertig.  
+Bitte sendet daher eure Ideen und Vorschl&auml;ge an unsere Gruppen Mailadresse.  
+Diese ist: meeting@leipziger-softwareschmiede.de  ­
 
-Wenn wir Erfolg mit der Kontaktaufnahme haben,  
-dann besprechen wir folgende Schwerpunkte.  
-Siehe: **Wiki > Meeting > erstes Online Meeting (04.07.2018)**  
 
-Ich bin gespannt ob alles klappt.
+Mit freundlichen Gr&uuml;&szlig;en  
 
-Mit freundlichen Gr&uuml;&szlig;en Stephan
+Stephan  

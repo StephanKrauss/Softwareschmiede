@@ -1,7 +1,9 @@
 ### Kontakt
 
-+ **Stephan Krauß**
-+ Meetup:  https://www.meetup.com/de-DE/Leipziger-Softwareschmiede
-+ Skype: stephan12366
-+ Mail: softwareschmiede@suppenterrine.de
+![](https://i.imgur.com/WCZtRYI.jpg)
+ 
++ Meetup:  https://www.meetup.com/de-DE/Leipziger-Softwareschmiede  
++ Web: http://www.leipziger-softwareschmiede.de      
++ Mail: meeting@leipziger-softwareschmiede.de  
++ Twitter: https://twitter.com/KrauStephan
 
